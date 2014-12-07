@@ -1,6 +1,6 @@
 ## What is in this repo?
 
-`PROCUREMENT` and `RDTE` justifications books (PDFs + attachments) harvested from the USD Comptroller website (http://comptroller.defense.gov/) for the years **2013**, **2014** and **2015**.
+`PROCUREMENT` and `RDTE` justifications books (PDFs + attachments) harvested from the USD Comptroller website (http://comptroller.defense.gov/) for **2013**.
 
 
 The catalog of files that were harvested can be found by looking at the `jbook_list.json` file:
